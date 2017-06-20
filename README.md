@@ -1,4 +1,4 @@
-Gdbgmgr: Gnu Debugger Manager for Vim
+Gdbmgr: Gnu Debugger Manager for Vim
 =====================================
 
 DISCLAIMER

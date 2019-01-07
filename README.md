@@ -1,6 +1,12 @@
 Gdbmgr: Gnu Debugger Manager for Vim
 =====================================
 
+DEPRECATION WARNING
+-------------------
+
+Since version 8.1 vim includes terminal debugger plugin which can be used
+instead of this one and is preferred.
+
 DISCLAIMER
 ----------
 
